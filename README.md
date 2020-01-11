@@ -1,10 +1,10 @@
 # nuxt-typescript-sample
 
-> [Nuxt.js with TypeScript](https://jhyeok.com/nuxtjs-with-typescript/) 포스트의 설명을 위한 소스 코드 샘플입니다.
+> [Typescript로 Nuxt 개발하기](https://jhyeok.com/nuxtjs-with-typescript/) 포스트의 설명을 위한 소스 코드 샘플입니다.
 
 ### TODO
-- [x] TypeScript 환경으로 Nuxt.js 개발
-- [ ] TypeScript Lint, Jest 환경 구성
+- [x] TypeScript 환경으로 Nuxt 개발
+- [x] TypeScript Lint, Jest 환경 구성
 
 ### Build Setup
 
